@@ -1,0 +1,16 @@
+{
+  "name": "Mannar Inc.",
+  "owner": "user_MTM4NTEwMDAwMDAwMTQ2MDAx",
+  "industry_code": "541519",
+  "industry": "Information Technology",
+  "employees": 4,
+  "rating": "Hot",
+  "website": "https://angel.co/simplynk",
+  "description": "Location-based professional networking",
+  "raw": {
+    "object": {
+      "BillingCity": "San Francisco",
+      "IsPartner": true
+    }
+  }
+}
